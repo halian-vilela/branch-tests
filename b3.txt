@@ -4,7 +4,4 @@
 
 Some content with wrong text
 
-## Another subtitle
-
-With the main text:
 
