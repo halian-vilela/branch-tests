@@ -2,7 +2,7 @@
 
 ## A subtitle
 
-Some content with wong text
+Some content with wrong text
 
 
 Another file
